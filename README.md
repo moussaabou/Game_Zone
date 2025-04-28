@@ -1,1 +1,3 @@
-To confirm, type the number of stars on this repository in the box below
+# Game_Zone 🎮
+App web "Game Zoone" based C# asp.net core MVC
+
